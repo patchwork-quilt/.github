@@ -11,7 +11,7 @@ A patchwork quilt is pieces that stand alone, joined by visible seams into somet
 - **git.pp-grid** — the shared grid: defaults that stand until changed, proposals as visible bids, per-seat renderings of one record.
 - **gitpp-beam** — the same fold, proven again on the BEAM (Elixir) — three implementations, one corpus, byte-identical answers.
 
-The repositories are being moved in from SuperInstance, where the work was developed in the open.
+Developed in the open under SuperInstance; the family lives here now.
 
 ## The arrangement
 
