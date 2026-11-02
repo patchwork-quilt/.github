@@ -1,6 +1,6 @@
 # Patchwork Quilt
 
-The production home of **git.pp** and **stitch** — the two halves of one thesis about many agents working as one: git.pp derives *what the state is* from an append-only record, and stitch accounts for *who may change it, within what budget, provably*.
+The canonical home of **git.pp** and **stitch** — the two halves of one thesis about many agents working as one: git.pp derives *what the state is* from an append-only record, and stitch accounts for *who may change it, within what budget, provably*.
 
 - **git.pp** — a Git substrate for many agents working one codebase at once, where the task is the atom, state is derived from an append-only record, and provenance is the arbiter.
 - **stitch** — a tiny, language-portable substrate primitive for accountable agent state: eleven verbs (attest, delegate, contest, revoke…) over a signed, hash-chained ledger, with a conservation law that budgets how much any agent may change the world per tick. Four implementations — Python, Rust, C99, and a Lean 4 formalisation in which minting soundness and the conservation bound are machine-proven.
